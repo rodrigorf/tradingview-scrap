@@ -1,0 +1,6 @@
+{
+    "scraping": {
+      "url": "https://s.tradingview.com/widgetembed/?frameElementId=tradingview_34d0e&symbol=MERCADO%3ALTCBRL&interval=D&symboledit=1&saveimage=1&toolbarbg=f1f3f6&studies=StochasticRSI%40tv-basicstudies%1FMACD%40tv-basicstudies%1FIchimokuCloud%40tv-basicstudies%1FCCI%40tv-basicstudies&theme=Dark&style=1&timezone=America%2FSao_Paulo&studies_overrides=%7B%7D&overrides=%7B%7D&enabled_features=%5B%5D&disabled_features=%5B%5D&locale=br",
+      "xpPath": "//div[contains(text(), 'CCI')]//parent::div//parent::div//parent::div//div[@class='valuesWrapper-1WIwNaDF']"
+    }
+}
