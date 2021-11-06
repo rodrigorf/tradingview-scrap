@@ -4,6 +4,10 @@ Nano scraper in NodeJs to grab CCI info from a TradingView link. Using Puppeteer
 ## How it works?
 
 -> **It's veeery simple, just grabs a label info from inside the chart, the field is called 'CCI'. **<br>
+-> It uses headless mode, but with small chaneg you can change it to view the browser screen (change line 5 from run.js):
+```
+    const browser = await puppeteer.launch({headless: false})
+```
 
 ![image](https://user-images.githubusercontent.com/6570848/140618487-17b94228-b990-4350-8850-2051e184a3e1.png)<br><br>
 
