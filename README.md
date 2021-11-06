@@ -28,7 +28,7 @@ Nano scraper in NodeJs to grab CCI info from a TradingView link. Using Puppeteer
     * url  - just pass the URL from the TradingView site. OBS: i only tested with one specific case that has the CCI value on the screen!!!
     * xpPath - the DOM path to the information. And i know this can be done in a several different ways (like CSS Selector), but xpaths for me was the faster and direct way.
     
-## Be happy! I jsut made because some one asked, it`s straighfoward, but with small change can serve a higher purpose. :)
+## Be happy! I just made because some one asked, it`s straighfoward, but with small change can serve a higher purpose. :)
     EXECUTE: node run.js
 
 [Blog - rodrigoreisf.com.br](http://rodrigoreisf.com.br)
